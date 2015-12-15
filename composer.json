@@ -1,5 +1,5 @@
 {
-    "name": "BUONJG/smarty",
+    "name": "buonjg/smarty",
     "type": "library",
     "description": "Smarty - the compiling PHP template engine",
     "keywords": ["templating"],
